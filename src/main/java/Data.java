@@ -3,11 +3,11 @@ import processing.core.PApplet;
 public class Data {
     PApplet p;
     String navn;
-    String year;
-    String death;
- Data(String navn, String year, String death){
+    int year;
+    int death;
+ Data(String navn, int year, int death){
      this.navn = navn;
-     this.year = year;
+     this.year =year;
      this.death= death;
 
  }

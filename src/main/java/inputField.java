@@ -7,7 +7,7 @@ public class inputField {
     float sizeX, sizeY;
     String text;
     float mouseX, mouseY;
-    String indput = "";
+    String input = "";
 
     boolean klikket = false;
     boolean acceptLetters = true;
@@ -31,7 +31,7 @@ public class inputField {
 
         p.fill(0);
         p.textSize(16);
-        p.text(indput, posX +(sizeX/16), posY + (sizeY/2));
+        p.text(input, posX +(sizeX/16), posY + (sizeY/2));
         p.text(text,posX, posY);
 
 
@@ -56,15 +56,15 @@ public class inputField {
     void keyindput(char key) {
 
         if(klikket ){
-            if(key == p.BACKSPACE && indput.length() > 0){
+            if(key == p.BACKSPACE && input.length() > 0){
 
-                indput =indput.substring(0,indput.length()-1);
+                input = input.substring(0, input.length()-1);
             } else {
                 if ((!acceptLetters && key >= '0' && key <= '9') || acceptLetters)
-                    indput = indput + key;
+                    input = input + key;
             }
 
         }
-        p.println(indput);
+        p.println(input);
     }
 }

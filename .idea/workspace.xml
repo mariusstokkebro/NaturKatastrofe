@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c184cdca-3219-4643-bcd8-c7e89ce639ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DataBroker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataBroker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/inputField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inputField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/DataBroker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataBroker.class" afterDir="false" />
@@ -74,45 +74,73 @@
       <option name="presentableId" value="Default" />
       <updated>1599738833243</updated>
     </task>
+    <task id="LOCAL-00001" summary="coooool">
+      <created>1601548917402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601548917402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="coooool" />
+    <option name="LAST_COMMIT_MESSAGE" value="coooool" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1600774668323">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1601548916601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600774668323" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1601282777451">
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601548916601" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1601621640843">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601282777451" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1601282777451">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601621640843" />
+    <state width="1478" height="209" key="GridCell.Tab.0.bottom" timestamp="1602009163711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601282777451" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1601282777450">
+    <state width="1478" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602009163711" />
+    <state width="1478" height="209" key="GridCell.Tab.0.center" timestamp="1602009163711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601282777450" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1601282777451">
+    <state width="1478" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602009163711" />
+    <state width="1478" height="209" key="GridCell.Tab.0.left" timestamp="1602009163710">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601282777451" />
+    <state width="1478" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602009163710" />
+    <state width="1478" height="209" key="GridCell.Tab.0.right" timestamp="1602009163711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602009163711" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1599816133048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599816133048" />
+    <state x="490" y="161" width="540" height="524" key="StructurePopup" timestamp="1602006207544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="161" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1602006207544" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601548924299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601548924299" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600064028314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600064028314" />
-    <state x="304" y="148" width="927" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600676266252">
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601548882059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="304" y="148" width="927" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1600676266252" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1600677463972">
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1601548882059" />
+    <state x="304" y="148" width="927" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602006311853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600677463972" />
+    <state x="304" y="148" width="927" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1602006311853" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601998156542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601998156542" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -120,6 +148,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
